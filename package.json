@@ -2,7 +2,7 @@
   "name": "@velocity-bpa/n8n-nodes-fantom-sonic",
   "version": "1.0.0",
   "description": "n8n community node for Fantom/Sonic blockchain interactions",
-  "license": "bsl-catalog",
+  "license": "SEE LICENSE IN LICENSE.md",
   "homepage": "https://github.com/velocity-bpa/n8n-nodes-fantom-sonic",
   "author": {
     "name": "Velocity BPA",
@@ -42,7 +42,7 @@
     "@typescript-eslint/parser": "^7.15.1",
     "eslint": "^8.56.0",
     "gulp": "^4.0.2",
-    "n8n-workflow": "*",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.1.1",
     "typescript": "~5.2.2"
   },
